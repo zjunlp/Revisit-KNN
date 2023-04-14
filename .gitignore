@@ -1,0 +1,15 @@
+logs/
+
+__pycache__
+
+output/
+
+*.gz
+
+ckpt/
+
+pretrained_ckpt/
+
+GLUE_task/data
+
+RE_task/dataset
