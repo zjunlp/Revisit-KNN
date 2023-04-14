@@ -13,3 +13,5 @@ pretrained_ckpt/
 GLUE_task/data
 
 RE_task/dataset
+
+.DS_Store
