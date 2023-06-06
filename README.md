@@ -1,5 +1,7 @@
 # Revisiting k-NN for Pre-trained Language Models
 
+Code and datasets for the CCL2023 paper [Revisiting k-NN for Pre-trained Language Models](https://arxiv.org/pdf/2304.09058.pdf). 
+
 The architecture of our model can be seen as follows:
 
 <div align=center>
@@ -105,4 +107,27 @@ Just pick one script and run following command:
 ```bash
 cd RE_task
 bash scripts/run_xxx.sh
+```
+# Citation
+If you use the code, please cite the following paper:
+
+
+```bibtex
+@article{DBLP:journals/corr/abs-2304-09058,
+  author       = {Lei Li and
+                  Jing Chen and
+                  Bozhong Tian and
+                  Ningyu Zhang},
+  title        = {Revisiting k-NN for Pre-trained Language Models},
+  journal      = {CoRR},
+  volume       = {abs/2304.09058},
+  year         = {2023},
+  url          = {https://doi.org/10.48550/arXiv.2304.09058},
+  doi          = {10.48550/arXiv.2304.09058},
+  eprinttype    = {arXiv},
+  eprint       = {2304.09058},
+  timestamp    = {Tue, 02 May 2023 16:30:12 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2304-09058.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
 ```
