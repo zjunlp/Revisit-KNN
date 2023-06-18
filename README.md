@@ -1,4 +1,4 @@
-# Revisiting k-NN for Pre-trained Language Models
+# Revisiting k-NN for Fine-tuning Pre-trained Language Models
 
 Code and datasets for the CCL2023 paper [Revisiting k-NN for Fine-tuning Pre-trained Language Models](https://arxiv.org/pdf/2304.09058.pdf). 
 
