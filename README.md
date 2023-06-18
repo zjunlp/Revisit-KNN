@@ -1,6 +1,6 @@
 # Revisiting k-NN for Pre-trained Language Models
 
-Code and datasets for the CCL2023 paper [Revisiting k-NN for Pre-trained Language Models](https://arxiv.org/pdf/2304.09058.pdf). 
+Code and datasets for the CCL2023 paper [Revisiting k-NN for Fine-tuning Pre-trained Language Models](https://arxiv.org/pdf/2304.09058.pdf). 
 
 The architecture of our model can be seen as follows:
 
@@ -118,7 +118,7 @@ If you use the code, please cite the following paper:
                   Jing Chen and
                   Bozhong Tian and
                   Ningyu Zhang},
-  title        = {Revisiting k-NN for Pre-trained Language Models},
+  title        = {Revisiting k-NN for Fine-tuning Pre-trained Language Models},
   journal      = {CoRR},
   volume       = {abs/2304.09058},
   year         = {2023},
